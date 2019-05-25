@@ -63,7 +63,7 @@ install(DIRECTORY include/
   )
 
 # Python scripts
-set(PYTHON_SCRPTS
+set(PYTHON_SCRIPTS
   scripts/tf_interactive_maker.py
 )
 foreach(scripts ${PYTHON_SCRIPTS})
